@@ -17,7 +17,6 @@ A student can
 ### Admin
 
 An admin can
-
 * view and edit his profile
 * search for books and view availability
 * view, Edit or Delete existing books
