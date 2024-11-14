@@ -15,7 +15,6 @@ A student can
 * view his issue history
 
 ### Admin
-
 An admin can
 * view and edit his profile
 * search for books and view availability
