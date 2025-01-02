@@ -6,7 +6,7 @@ A web app for the management of books, users and the Issue and Return of Books i
 
 ### Student
 
-A student can
+A student can :
 
 * register himself on the app
 * view and edit his profile
