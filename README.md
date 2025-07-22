@@ -24,5 +24,5 @@ An admin can
 * return a book issued earlier
 * view all stats of the library
 * view issue log and the profile of all the students
-* view the profile of all admins 
+* view the profile of all admin 
 
